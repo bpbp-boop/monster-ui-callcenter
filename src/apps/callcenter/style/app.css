@@ -384,7 +384,7 @@
 }
 
 #dashboard-content .dashboard-bottom-right #agents-view .agent_wrapper.ready .agent_header_badge, #dashboard-content .dashboard-bottom-right #agents-view .agent_wrapper.paused .agent_header_badge, #dashboard-content .dashboard-bottom-right #agents-view .agent_wrapper.busy .agent_header_badge, #dashboard-content .dashboard-bottom-right #agents-view .agent_wrapper.connecting .agent_header_badge, #dashboard-content .dashboard-bottom-right #agents-view .agent_wrapper.wrapup .agent_header_badge, #dashboard-content .dashboard-bottom-right #agents-view .agent_wrapper.handling .agent_header_badge {
-	border-width: 20px;
+	border-width: 2px;
 	border-color: white;
 	color: #555;
 }
